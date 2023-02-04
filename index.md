@@ -16,3 +16,10 @@
 ```
 println("This is a test line.");
 ```
+
+<h2>Step 4</h2>
+
+- [ ] Get Coffee
+- [ ] Report to workstation
+- [ ] Procede to create A.I. that does daily tasks
+- [ ] Pretend to be busy
